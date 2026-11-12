@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+Debug/
+Release/
+publish/
+
+# Node.js
+node_modules/
+dist/
+.vite/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local configuration
+secrets.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

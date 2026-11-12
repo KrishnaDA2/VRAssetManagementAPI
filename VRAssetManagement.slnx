@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="VRAssetManagement.Api/VRAssetManagement.Api.csproj" />
+  <Project Path="VRAssetManagement.Application/VRAssetManagement.Application.csproj" />
+  <Project Path="VRAssetManagement.Domain/VRAssetManagement.Domain.csproj" />
+  <Project Path="VRAssetManagement.Infrastructure/VRAssetManagement.Infrastructure.csproj" />
+  <Project Path="VRAssetManagement.Tests/VRAssetManagement.Tests.csproj" Id="7e433060-6fe3-4cfe-8014-3f2eea7f9462" />
+</Solution>
